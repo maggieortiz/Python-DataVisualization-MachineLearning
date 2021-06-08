@@ -1,4 +1,4 @@
-# DataScience-with-Python
+# Python-MachineLearning-DataVisualization
 Machine Learning & Data Visualization assignments from the Data Science with Python Specialization from University of Michigan
 - Data manipulation (pandas, numpy, scikit learn, etc)
 - Data visualization (matplotlib)
