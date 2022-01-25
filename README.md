@@ -18,7 +18,7 @@ Machine Learning & Data Visualization assignments from the Data Science with Pyt
 **Random Forest** 
 - PredictFines_ML.ipynb
 
-**Logistic Regression **
+**Logistic Regression**
 - FraudDetection_ML.ipynb
 
 **SVC**
