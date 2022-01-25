@@ -8,14 +8,19 @@ Machine Learning & Data Visualization assignments from the Data Science with Pyt
 **Linear Regression** 
 - ClassificationModel&LinearRegression.ipynb 
 - NJ Wages vs GDP per capita by country.ipynb 
+
 **K-Nearest Neighbor** 
 - BreastCancerPredict_KNearestNeighbor.ipynb 
+
 **T-Test**
 - HypothesisTest_HousingPricevsGDP.ipynb
+
 **Random Forest** 
 - PredictFines_ML.ipynb
+
 **Logistic Regression **
 - FraudDetection_ML.ipynb
+
 **SVC**
 - FraudDetection_ML.ipynb
 
